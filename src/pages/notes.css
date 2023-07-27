@@ -1,0 +1,10 @@
+.title {
+    text-align: center;
+}
+
+.highlighted {
+    background-color: rgb(45, 163, 134);
+    color: #fff;
+    padding: 3px;
+    border-radius: 10px;
+}

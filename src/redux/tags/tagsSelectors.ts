@@ -1,0 +1,1 @@
+export const getTags = (state: any) => state.tag.tags;
